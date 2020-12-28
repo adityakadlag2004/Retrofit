@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GloboFly</string>
+    <string name="delete">Delete</string>
+    <string name="globofly">GloboFly</string>
+    <string name="for_end_less_vacations">...for end less vacations</string>
+    <string name="get_started">Get Started</string>
+    <string name="add">Add</string>
+    <string name="country_name">Country Name</string>
+    <string name="city_name">City Name</string>
+    <string name="destiny">Destiny</string>
+    <string name="update">Update</string>
+    <string name="just_a_image">Just a Image</string>
+</resources>
